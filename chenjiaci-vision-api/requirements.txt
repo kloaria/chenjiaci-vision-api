@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-chromadb
-torch
-transformers
-pillow
-python-multipart
